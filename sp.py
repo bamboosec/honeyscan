@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Spider Trap
+# Spider Trap and Scanner
 
 ### Configuration Section ###
 # the lower and upper limits of how many links to put on each page
