@@ -1,4 +1,4 @@
 honeyscan
 =========
 
-A Honeypot Scanner
+Turning your honey into scaner
